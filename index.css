@@ -1,0 +1,145 @@
+.kitchen{
+    
+    height: 430px;
+    background-image: url(images/landing.jpg);
+
+}
+    
+  .topnav {
+    overflow: hidden;
+    position: relative;
+    display: block;
+
+  }
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a.icon {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  
+  .active {
+   
+    color: white;
+  }
+  .logo{
+      margin-top: 50px;
+      
+  }
+  .logo img{
+margin-left: 550px;
+width: 250px;
+height: 250px;
+  }
+.logo p{
+padding-left: 20px;
+margin-left: 550px;
+ height: 70px;
+ color: white;
+ font-size:x-large;
+ margin-bottom: 10px;
+}
+.happy{
+    background-color:whitesmoke;
+    height: 40px;
+    padding-top: 15px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: px;
+
+    
+    
+    
+}
+#party{
+    background-color: tomato;
+    /* width: 200px; */
+    height: 40px;
+    font-size: 15px;
+    font-family:sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+    text-align: center;
+    color:white;
+    margin-left: 5px;
+
+
+}
+.breakfast{
+    background-image: url(images/breakfast.jpg);
+    /* width: 200px ; */
+    height: 100px;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+    margin-left: 5px;
+
+    
+    
+    }
+    
+    
+    
+     .lunch{
+        background-image: url(images/lunch.jpg);
+        /* width: 200px ; */
+        height: 100px;
+        text-align: center;
+        padding-top: 15px;
+        color: white;
+        margin-left: 5px;
+
+        
+         }
+        
+         .dinner{
+            background-image: url(images/dinner.jpg);
+            /* width: 200px ; */
+            height: 100px;
+            text-align: center;
+            padding-top: 15px;
+            color: white;
+            margin-left: 5px;
+             }
+            .image{
+                margin-left: 200px;
+            }
+                
+            .column {
+              float: left;
+              width: 25%;
+              
+            }
+            
+            .row:after {
+              content: "";
+              display: table;
+              clear: both;
+            }
+            button{
+              color: tomato;
+              border-color: tomato;
+     }
+}
+
+}
+.column1{
+  float: left;
+  width: 25%;
+  margin-right:  30px;
+  
+}
+#slide{
+  background-image: url(images/foodsBg.jpg);
+}
+
