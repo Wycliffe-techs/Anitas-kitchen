@@ -113,13 +113,22 @@ margin-left: 550px;
              }
             .image{
                 margin-left: 200px;
+
+            }
+            .dish img{
+              width: 600px;
+              height: 300px;
             }
                 
-            .column {
-              float: left;
-              width: 25%;
+           
               
-            }
+
+              .food{
+                width: 100px;
+              }
+
+  
+            
             
             .row:after {
               content: "";
@@ -130,16 +139,26 @@ margin-left: 550px;
               color: tomato;
               border-color: tomato;
      }
-}
+     .back{
+       background-image:url(images/foodsBg.jpg);
+       margin-top: 20px;
+       
+     }
+     .slide img{
+       margin-left: 50px;
 
-}
-.column1{
-  float: left;
-  width: 25%;
-  margin-right:  30px;
+     }
+     
+     .drink1 img{
+       height: 300px;
+       width: 250px;
+     }
+
+
+
+
   
-}
-#slide{
-  background-image: url(images/foodsBg.jpg);
-}
+
+
+
 
