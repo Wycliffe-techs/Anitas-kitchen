@@ -145,7 +145,7 @@ margin-left: 550px;
        
      }
      .slide img{
-       margin-left: 50px;
+       margin-left: 100px;
 
      }
      
@@ -153,6 +153,38 @@ margin-left: 550px;
        height: 300px;
        width: 250px;
      }
+     .customers h4{
+       color: tomato;
+     }
+     .subscribe{
+       background-image: url(images/subscribe.jpg);
+       height: 126px;
+       width: 700px;
+       margin-left: 255px;
+       text-align: center;
+       color: white;
+       padding-top: 20px;
+       
+       
+     }
+     .menu h4{
+       color: tomato;
+     }
+       
+     .backgroundf{
+      background-color:tomato;
+      text-align:center;
+      width: 700px;
+      height: 125px;
+      margin :255px;
+      margin-top:0px;
+     }
+
+
+    
+       
+      
+    
 
 
 
