@@ -34,13 +34,13 @@
       
   }
   .logo img{
-margin-left: 550px;
+margin-left: 470px;
 width: 250px;
 height: 250px;
   }
 .logo p{
 padding-left: 20px;
-margin-left: 550px;
+margin-left: 450px;
  height: 70px;
  color: white;
  font-size:x-large;
@@ -129,14 +129,6 @@ margin-left: 550px;
                 width: 100px;
               }
 
-  
-            
-            
-            .row:after {
-              content: "";
-              display: table;
-              clear: both;
-            }
             button{
               color: tomato;
               border-color: tomato;
@@ -144,10 +136,11 @@ margin-left: 550px;
      .back{
        background-image:url(images/foodsBg.jpg);
        margin-top: 20px;
+       padding-top: 10px;
        
      }
-     .slide img{
-       margin-left: 100px;
+     .slide {
+       margin-left: 50px;
 
      }
      
@@ -158,11 +151,10 @@ margin-left: 550px;
      .customers h4{
        color: tomato;
      }
+     
      .subscribe{
        background-image: url(images/subscribe.jpg);
-       height: 140px;
-       width: 700px;
-       margin-left: 255px;
+       height: 240px;
        text-align: center;
        color: white;
        padding-top: 20px;
@@ -176,20 +168,18 @@ margin-left: 550px;
      .backgroundf{
       background-color: tomato;
       text-align:center;
-      width: 700px;
-      height: 155px;
-      /* margin-left :255px; */
-      margin-top:0px;
       padding-top: 15px;
       color: white;
+      height: 200px;
+
 
      }
      .backgroundf img{
       padding-bottom: 5px;
      }
+     
 
-    
-  
+     
        
      
     
@@ -203,7 +193,6 @@ margin-left: 550px;
 
 
   
-
 
 
 
