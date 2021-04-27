@@ -187,6 +187,11 @@ margin-left: 550px;
      .backgroundf img{
       padding-bottom: 5px;
      }
+
+     .white{
+       flex-wrap: wrap;
+       
+     }
     
 
     
