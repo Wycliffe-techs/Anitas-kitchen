@@ -8,7 +8,7 @@
   .topnav {
     overflow: hidden;
     position: relative;
-    display: block;
+    display: inline-flex;
 
   }
   .topnav a {
@@ -30,7 +30,7 @@
     color: white;
   }
   .logo{
-      margin-top: 50px;
+      margin-top: px;
       
   }
   .logo img{
@@ -83,7 +83,7 @@ margin-left: 550px;
     padding-top: 15px;
     color: white;
     margin-left: 5px;
-
+    font-family: sans-serif;
     
     
     }
@@ -98,6 +98,7 @@ margin-left: 550px;
         padding-top: 15px;
         color: white;
         margin-left: 5px;
+        font-family: sans-serif;
 
         
          }
@@ -110,6 +111,7 @@ margin-left: 550px;
             padding-top: 15px;
             color: white;
             margin-left: 5px;
+            font-family: sans-serif;
              }
             .image{
                 margin-left: 200px;
@@ -158,28 +160,34 @@ margin-left: 550px;
      }
      .subscribe{
        background-image: url(images/subscribe.jpg);
-       height: 126px;
+       height: 140px;
        width: 700px;
        margin-left: 255px;
        text-align: center;
        color: white;
        padding-top: 20px;
-       
-       
-     }
+}
+
+    
      .menu h4{
        color: tomato;
      }
        
      .backgroundf{
-      background-color:tomato;
+      background-color: tomato;
       text-align:center;
       width: 700px;
-      height: 125px;
-      margin :255px;
+      height: 155px;
+      margin-left :255px;
       margin-top:0px;
-     }
+      padding-top: 15px;
+      color: white;
 
+     }
+     .backgroundf img{
+      padding-bottom: 5px;
+     }
+    
 
     
        
